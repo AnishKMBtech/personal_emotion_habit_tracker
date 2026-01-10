@@ -4,7 +4,7 @@ Echo AI is a privacy-first personal assistant and productivity companion designe
 
 ## 📥 Download
 
-**[Download the latest beta version (v1.0-beta)](https://github.com/AnishKMBtech/personal_emotion_habit_tracker/releases/tag/untagged-12f92ce32a714b6805ac)**
+**[Download the latest beta version (v1.0-beta)](https://github.com/AnishKMBtech/echo-android/releases)**
 
 The APK is available in the **Releases** section under "initial beta". 
 
@@ -32,15 +32,15 @@ The APK is available in the **Releases** section under "initial beta".
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="main/screenshots/5.jpeg" width="30%" alt="Home Screen" />
-  <img src="main/screenshots/3.jpeg" width="30%" alt="Private AI Chat" />
-  <img src="main/screenshots/1.jpeg" width="30%" alt="Stats and Emotion Log" />
+  <img src="screenshots/5.jpeg" width="30%" alt="Home Screen" />
+  <img src="screenshots/3.jpeg" width="30%" alt="Private AI Chat" />
+  <img src="screenshots/1.jpeg" width="30%" alt="Stats and Emotion Log" />
 </p>
 
 <p align="center">
-  <img src="main/screenshots/2.jpeg" width="30%" alt="Adding New Habit" />
-  <img src="main/screenshots/6.jpeg" width="30%" alt="Habit Focus Timer" />
-  <img src="main/screenshots/4.jpeg" width="30%" alt="Model Import Instructions" />
+  <img src="screenshots/2.jpeg" width="30%" alt="Adding New Habit" />
+  <img src="screenshots/6.jpeg" width="30%" alt="Habit Focus Timer" />
+  <img src="screenshots/4.jpeg" width="30%" alt="Model Import Instructions" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ The APK is available in the **Releases** section under "initial beta".
 ## 🚀 Getting Started
 
 ### 1. Installation
-1. Download the APK from the [Releases](https://github.com/AnishKMBtech/personal_emotion_habit_tracker/releases) page.
+1. Download the APK from the [Releases](https://github.com/AnishKMBtech/echo-android/releases) page.
 2. Enable "Install from Unknown Sources" on your Android device if prompted.
 3. Open the APK and follow the installation instructions.
 
@@ -80,7 +80,7 @@ Echo AI is built on the principle that your data belongs to you. We do not colle
 ## 🐛 Known Issues & Contributing
 
 This is a **beta release**. If you encounter bugs or want to suggest features:
-1. Open an [Issue](https://github.com/AnishKMBtech/personal_emotion_habit_tracker/issues).
+1. Open an [Issue](https://github.com/AnishKMBtech/echo-android/issues).
 2. Provide your Android version and device model.
 3. Contributions are welcome! Feel free to check the issues page.
 
